@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "formatted like this"
-date:   2016-10-27 04:50:56 +0000
+date:   2016-10-27 00:50:56 -0400
 ---
 
 
